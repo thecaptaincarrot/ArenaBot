@@ -8,6 +8,7 @@ from discord import Game
 from discord.ext import commands
 from discord.utils import get
 import discord
+from config import TOKEN
 
 import fnmatch
 
@@ -38,8 +39,6 @@ global DungeonMasterID
 #4. Truncate Roster
 
 BOT_PREFIX = ("A!","a!")
-
-TOKEN = 'NjAzNzIwMjg1OTg3OTMwMTM2.XTs9Lw.OYCgaTqypqflYPTJRdpyUmwC6qQ'
 
 bot = commands.Bot(command_prefix=BOT_PREFIX)
 
