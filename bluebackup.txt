@@ -1,0 +1,20 @@
+UserID,Discord Username,Avatar,Name,Rank,Race,Class,Weapon,Wins,Losses,Ties
+270785666470772736,@CaptainCarrot,:snail:,P'kachoo,Pit Dog,Sload,Necromancer,Undead,99,0,1
+203649850963656705,@Ha1fDead,:frog:,Eckert,Pit Dog,Imperial,Fan,Hands,0,0,5
+1,@Bookshelf11#0599,:blue_heart:,Eckert,Pit Dog,Breton,Crusader,Axes,6,4,0
+1,@CABAL ✿◕‿◕✿#3322,:dagger:,Eckert,Pit Dog,Imperial,Assassin,Daggers,0,0,0
+1,@Violet aka Manic Brainbow#0878,:schlick:,Eckert,Pit Dog,Bosmer,Nightblade,Throwing Stars,1,0,0
+1,@Lev1845#1845,:flag_jp:,Eckert,Pit Dog,Kamal,Spellsword,Katana,0,0,0
+1,@tundragrass#8698,:shield:,Eckert,Pit Dog,Orc,Battlemage,Magic & Shield,1,2,0
+1,@DIO#4883,:flag_us:,Eckert,Pit Dog,Imperial,Crusader,Greatsword & Fire Magic,1,3,0
+1,@trevor#5107,:skooma:,Eckert,Pit Dog,Khajiit,Monk,Hand-to-Hand,0,0,0
+1,@xnk#1667,:ram:,Eckert,Pit Dog,Breton,Battlemage,Longsword,0,1,0
+1,@𝕙𝕦𝕘𝕒𝕣𝕔𝕙𝕚𝕤𝕥#1593,:baebric:,Eckert,Pit Dog,Breton,Mage,Bound Dagger / Magic,0,0,0
+1,@Gaylobster#2103,:banned:,Eckert,Pit Dog,Orc,Barbarian,Warhammer,0,0,0
+1,@Cayrano#5481,:qu1nlan:,Eckert,Pit Dog,Breton,Monk,Restoration & a Potato,0,0,0
+1,@Themanwithoutaplan#0342,:schick:,Eckert,Pit Dog,Dunmer,Battlemage,Sword & Shield / Magic,2,3,0
+1,@Poato#6058,:tips:,Eckert,Pit Dog,Redguard,Warrior,Halberd,0,0,0
+1,@Silverama#6736,:black_joker:,Eckert,Pit Dog,Atmoran,Crusader,Warhammer,0,0,0
+1,@Goat-bot#2486,:spoon:,Eckert,Pit Dog,Goblin,Spellsword,Two-Handed Axe (Spoon Shaped),1,1,0
+1,@boobhaver#7505,:smiling_imp:,Eckert,Pit Dog,Dremora,Battlemage,Chains & Lightning Magic,1,1,0
+1,@Sci-Writer#7993,:cruise_ship:,Eckert,Pit Dog,Maormer,Spellsword,Cutlass & Water/Wind Magic,0,0,0

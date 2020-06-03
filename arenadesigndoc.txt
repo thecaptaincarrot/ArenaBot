@@ -1,0 +1,14 @@
+global commands:
+a!roster [blue/yellow] [integer] // lists the top 5 players from each team. If a team is specified, lists the top 10 players from that team. adding an integer will return the next 10 or 5 instead.
+a!charactersheet @captaincarrot // gives the character sheet for the @'d user. if no user is @'d, gives the person using the command's character sheet listing name, race, class, weapon, team, and score.
+
+DM only commands:
+a!register @captaincarrot blue :snail: P'kachoo Sload Necromancer //Adds the user to the blue team with the specified information, args: User, Team, avatar, Character Name, Race, Class. error checking: cannot register the same player twice.
+a!recreate @captaincarrot :frog: Lifts-her-tail Argonian Maid //Changes the character of the user without resetting win/loss or team error checking: if user is not on the roster
+a!purge @captaincarrot //removes the user and their character from the combat roster error checking: cannot find user on either team
+a!teamchange @captaincarrot [yellow/blue] //moves the user to the specified team. resets w/l ratio. error checking: verify if they are sure since this resets score. User is already on the specified team or does not exist.
+a!editscore @captaincarrot [wins] [losses] [ties] //changes the win/loss/ties of the user to those specified. error checking: not enough arguments, user does not exist.
+a!fight @captaincarrot @PissTeamCoward //adds the first player to the blue team in the arena and the second player to the yellow team. error checking: removes players currently in arena.
+a!roll //rolls a d10 for both players currently in the arena. If there is no one in the arena, generic roll.
+a!win [blue/yellow] //adds a win to the character currently on the blue team and a loss to the character currently on the yellow team. Both characters are removed from the arena. Roster is reordered to account for the new score.
+a!emptyarena //removes players currently in the arena.
